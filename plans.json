@@ -1,0 +1,59 @@
+{
+  "plans": [
+    {
+      "plan_code": "CD",
+      "provider": "LecturerSet",
+      "plan_name": "CellDeck",
+      "base_cost": 21.1,
+      "included_minutes": 747,
+      "included_data_gb": 30.0,
+      "cost_per_minute": 0.24,
+      "cost_per_gb": 3.53,
+      "roaming_included": false
+    },
+    {
+      "plan_code": "RT",
+      "provider": "LecturerSet",
+      "plan_name": "RoamTune",
+      "base_cost": 27.76,
+      "included_minutes": 474,
+      "included_data_gb": 18.0,
+      "cost_per_minute": 0.12,
+      "cost_per_gb": 2.38,
+      "roaming_included": true
+    },
+    {
+      "plan_code": "BG",
+      "provider": "LecturerSet",
+      "plan_name": "BuzzGuru",
+      "base_cost": 71.96,
+      "included_minutes": 701,
+      "included_data_gb": 48.0,
+      "cost_per_minute": 0.1,
+      "cost_per_gb": 3.02,
+      "roaming_included": false
+    },
+    {
+      "plan_code": "CS",
+      "provider": "LecturerSet",
+      "plan_name": "CallScope",
+      "base_cost": 66.99,
+      "included_minutes": 721,
+      "included_data_gb": 10.0,
+      "cost_per_minute": 0.07,
+      "cost_per_gb": 2.41,
+      "roaming_included": true
+    },
+    {
+      "plan_code": "SM",
+      "provider": "LecturerSet",
+      "plan_name": "StreamMate",
+      "base_cost": 49.22,
+      "included_minutes": 537,
+      "included_data_gb": 45.0,
+      "cost_per_minute": 0.2,
+      "cost_per_gb": 1.4,
+      "roaming_included": false
+    }
+  ]
+}
